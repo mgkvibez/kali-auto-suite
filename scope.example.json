@@ -1,0 +1,8 @@
+{
+  "authorized_by": "Your Name (the person who owns the systems)",
+  "authorized_on": "2026-10-30",
+  "contact": "you@example.com",
+  "authorization_reference": "Why you are allowed: your lab VM, an engagement letter, a written request",
+  "allow_private": false,
+  "targets": ["lab.example.com", "*.lab.example.com", "192.0.2.10"]
+}

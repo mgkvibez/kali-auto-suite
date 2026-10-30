@@ -1,0 +1,10 @@
+{
+  "authorized_by": "Michael Gabriel (mgkvibez)",
+  "authorized_on": "2026-10-30",
+  "contact": "adaenonche92@gmail.com",
+  "authorization_reference": "self-owned lab VM",
+  "allow_private": false,
+  "targets": [
+    "10.1.2.3"
+  ]
+}
