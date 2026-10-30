@@ -5,6 +5,7 @@
 ![kaliauto validating a scope and refusing an unauthorized private target](docs/demo/kaliauto.svg)
 
 [![CI](https://github.com/mgkvibez/kali-auto-suite/actions/workflows/ci.yml/badge.svg)](https://github.com/mgkvibez/kali-auto-suite/actions/workflows/ci.yml)
+[![PyPI](https://img.shields.io/pypi/v/kaliauto.svg)](https://pypi.org/project/kaliauto/)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](pyproject.toml)
 
